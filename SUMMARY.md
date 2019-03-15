@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## Processes
+
+* [Encrypt an Existing Array](processes/encrypt-an-existing-array.md)
 
