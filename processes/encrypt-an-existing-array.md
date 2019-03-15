@@ -12,6 +12,7 @@ As of this writing you can't currently encrypt data on the existing file-systems
 
 * [ ] Must be on version 6.4+ current version can be found [here](https://unraid.net/download).
 * [ ] The unbalance plugin, info [here](https://forums.unraid.net/topic/43651-plug-in-unbalance/).
+* [ ] You need to have enough free space on your storage array to cover moving the data off any of your drives.
 
 ## High Level Process
 
