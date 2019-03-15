@@ -1,23 +1,17 @@
 # Introduction
+unRAID is a storage solution that provides fault tolerance for data for person and professional use.
+## Key Features
+### Media Storage
+unRAID allows you to store terabytes of data modularly. 
 
-## Getting Super Powers
+### Docker Integration
+unRAID has built in docker support as well as user friendly Web UI pages to help you set your containers up.
+<!---
+Possibly put picture of webUI with docker
+-->
+### Virtualization Powerhouse
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+### Modular Architecture
 
 
 
